@@ -1,14 +1,13 @@
 #include "main.h"
 
 /**
- *
- * *main - This program will print putchar
+ * main - This program will print putchar
  *
  * *
  *
- * *Return: Always 0 (success)
+ * Return: Always 0 (success)
  *
- * */
+ **/
 
 int main(void)
 
