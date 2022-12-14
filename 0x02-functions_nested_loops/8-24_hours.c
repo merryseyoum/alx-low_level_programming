@@ -1,7 +1,7 @@
 #include "main.h"
 /** *jack_bauer - prints the last digit * *Return: the last digits */
 
-void jack_bauer (void)
+void jack_bauer(void)
 {
 	int i, j;
 	for (i = 0; i < 24; i++)
