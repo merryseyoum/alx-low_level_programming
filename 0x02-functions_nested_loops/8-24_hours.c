@@ -1,8 +1,8 @@
 #include "main.h"
 /**
-* jack_bauer - prints the last digit
+*jack_bauer - prints the last digit
 *
-* Return: the last digits
+*Return: the last digits
 */
 void jack_bauer(void)
 {
