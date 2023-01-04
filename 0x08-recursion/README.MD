@@ -1,0 +1,21 @@
+File: 0-puts_recursion.c Write a function that prints a string, followed by a new line.
+
+Prototype: void _puts_recursion(char *s);
+
+File: 1-print_rev_recursion.c Write a function that prints a string in reverse.
+
+Prototype: void _print_rev_recursion(char *s);
+
+2-strlen_recursion.c Write a function that returns the length of a string.
+
+Prototype: int _strlen_recursion(char *s);
+
+File: 3-factorial.c Write a function that returns the factorial of a given number.
+
+File: 4-pow_recursion.c Write a function that returns the value of x raised to the power of y.
+
+File: 5-sqrt_recursion.c Write a function that returns the natural square root of a number.
+
+File: 6-is_prime_number.c Write a function that returns 1 if the input integer is a prime number, otherwise return 0.
+
+
