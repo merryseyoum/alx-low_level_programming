@@ -2,9 +2,9 @@
 #include <stdlib.h>
 
 /**
- * *str_concat - concatenates two strings
- * @str: string to copy
- * Return: concatenates two strings
+ * *str_concat - main function.
+ * @s1: Primer string.
+ * @s2: Segundo string.
  **/
 
 char *str_concat(char *s1, char *s2)
