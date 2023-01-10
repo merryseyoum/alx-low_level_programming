@@ -5,6 +5,7 @@
  * *str_concat - main function.
  * @s1: Primer string.
  * @s2: Segundo string.
+ * Return: The pointer to str.
  **/
 
 char *str_concat(char *s1, char *s2)
