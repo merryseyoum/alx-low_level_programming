@@ -1,13 +1,14 @@
 #include "main.h"
 /**
-*_atoi - converts a string to an integer
-*@s:is string
-*Return: returns i* n
+  *_atoi - converts a string to an integer
+  *@s:is string
+  *Return: returns i* n
 */
 int _atoi(char *s)
 {
 int n = 1;
 unsigned int i = 0;
+
 for (; *s; s++)
 {
 if (*s >= '0' && *s <= '9')
